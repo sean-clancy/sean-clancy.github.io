@@ -14,7 +14,7 @@ social: false
 
 I joined the Department of Philosophy at East China Normal University in Autumn, 2017. Before that, I was a PhD candidate at Syracuse University, working with Ben Bradley.
 
-Broadly, my professional interests concern normative ethics, moral psychology, and the intersection of the two. You can find out more about my research projects <a href="/projects/">here</a>; you can find my CV <a href="{{ site.baseurl }}/assets/Sean%20Clancy%20-%20October%202018%20CV%20-%20Short.pdf">here</a>.
+Broadly, my professional interests concern normative ethics, moral psychology, and the intersection of the two. You can find out more about my research projects <a href="/projects/">here</a>; you can find my CV <a href="{{ site.baseurl }}/assets/Sean%20Clancy%20-%20July%202019%20CV%20-%20Short.pdf">here</a>.
 
 Students who need to contact me are advised to do so via email or via the WeChat group for the relevant course. Information on the courses I teach can be found <a href="https://sean-clancy.github.io/teaching/">here</a>.
 
