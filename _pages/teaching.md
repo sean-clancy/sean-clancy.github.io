@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 ---
-### Fall 2018
+### Fall 2019
 - Undergraduate Philosophy Major: Survey of English-Language Philosophy
 
 ### Spring 2019
