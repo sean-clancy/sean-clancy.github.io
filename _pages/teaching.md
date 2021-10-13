@@ -3,6 +3,20 @@ layout: page
 permalink: /teaching/
 title: Teaching
 ---
+### Fall 2021
+- Graduate Seminar: Professional English
+
+### Spring 2021
+- Graduate Seminar: Ethics from a Comparative Perspective (with Liu Liangjian)
+- Graduate Seminar: Contemporary Analytic Philosophy (with Zhu Xu)
+
+### Fall 2020
+- Graduate Seminar: Contemporary Philosophy of Language
+
+### Spring 2020
+- Graduate Seminar: Ethics from a Comparative Perspective (with Liu Liangjian)
+- Graduate Seminar: Contemporary Analytic Philosophy (with Zhu Xu)
+
 ### Fall 2019
 - Undergraduate Philosophy Major: Survey of English-Language Philosophy
 
